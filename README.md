@@ -1,9 +1,12 @@
 # Pac-Man
-My version of Pac-Man, playable using inputs from Arduino or simply with the arrow keys on your computer!
+My version of Pac-Man, playable using inputs from Arduino or simply with the arrow keys on your computer! Play it in your browser [here](https://editor.p5js.org/vnling/full/dgGPDL9Zs).
 
 <img src="pacman.gif" width = 500>
 
 ### Instructions
+
+Play offline in Processing and/or Arduino:
+
 <details>
   <summary>For Processing with Arduino</summary>
   <br/>
@@ -22,8 +25,12 @@ My version of Pac-Man, playable using inputs from Arduino or simply with the arr
 
 ### Built With
 
-- Processing (Java)
-- Arduino (C++)
+- **Offline Version**
+  - Processing (Java)
+  - Arduino (C++)
+  
+- **Web Version**
+  - p5.js (Javascript)
 
 ### Credits 
 
